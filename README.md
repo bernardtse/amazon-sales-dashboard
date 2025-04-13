@@ -1,5 +1,5 @@
 # amazon-sales-dashboard
-Amazon Sales Dashboard - Power BI Visualisation of Amazon Sales Data
+Amazon Sales Dashboard: Power BI Visualisation on Amazon Sales Data
 
 
 ## Contents
