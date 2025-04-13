@@ -27,10 +27,10 @@ Data cleaning and preprocessing were performed in Jupyter Notebook, and visualis
 ## 2. Repository
 
 This repository contains: 
-- [`data/`](data/): folder containing the original csv file `data/amazon.csv`, and the processed csv file `data/amazon_etl.csv`
+- [`data/`](data/): Folder containing the original csv file `data/amazon.csv`, and the processed csv file `data/amazon_etl.csv`
 - [`amazon_etl.ipynb`](amazon_etl.ipynb): Jupyter Notebook for data cleaning and preprocessing  
 - `amazon_sales_dashboard.pbix`: Power BI Dashboard (PBIX file)
-- [`README.md`](README.md)
+- [`README.md`](README.md): README file
 
 
 ## 3. Data Cleaning and Preprocessing
